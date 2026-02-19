@@ -46,7 +46,7 @@ This project showcases an interactive **Power BI Dashboard** built to analyze **
 - **Enhanced UX** with more intuitive navigation & tooltips.
 
 ---
-### **Author:** [Sreeman Mandava](https://github.com/yourusername)
+### **Author:** [Shresta Kota](https://github.com/ShrestaKotaa)
 ### **License:** MIT
 
 -
